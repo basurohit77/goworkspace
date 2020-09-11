@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0abc8cca-34e7-4808-9c4c-9521d63e1764" name="Default Changelist" comment="" />
+    <list default="true" id="0abc8cca-34e7-4808-9c4c-9521d63e1764" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/goproduct-api" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gorilla/mux/@v/list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gorilla/mux/@v/list.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gorilla/mux/@v/v1.8.0.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gorilla/mux/@v/v1.8.0.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gorilla/mux/@v/v1.8.0.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gorilla/mux/@v/v1.8.0.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/github.com/gorilla/mux/@v/v1.8.0.ziphash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/sumdb/sum.golang.org/lookup/github.com/gorilla/mux@v1.8.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/sumdb/sum.golang.org/tile/8/0/x006/042" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/sumdb/sum.golang.org/tile/8/0/x006/296.p/115" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/sumdb/sum.golang.org/tile/8/1/023" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/sumdb/sum.golang.org/tile/8/1/024.p/152" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/download/sumdb/sum.golang.org/tile/8/2/000.p/24" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/cache/lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/github.com/gorilla/mux@v1.8.0/.circleci/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/github.com/gorilla/mux@v1.8.0/.github/release-drafter.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/github.com/gorilla/mux@v1.8.0/.github/stale.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/github.com/gorilla/mux@v1.8.0/AUTHORS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/github.com/gorilla/mux@v1.8.0/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/github.com/gorilla/mux@v1.8.0/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/github.com/gorilla/mux@v1.8.0/bench_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/github.com/gorilla/mux@v1.8.0/doc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/github.com/gorilla/mux@v1.8.0/example_authentication_middleware_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/github.com/gorilla/mux@v1.8.0/example_cors_method_middleware_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/github.com/gorilla/mux@v1.8.0/example_route_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/github.com/gorilla/mux@v1.8.0/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/github.com/gorilla/mux@v1.8.0/middleware.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/github.com/gorilla/mux@v1.8.0/middleware_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/github.com/gorilla/mux@v1.8.0/mux.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/github.com/gorilla/mux@v1.8.0/mux_httpserver_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/github.com/gorilla/mux@v1.8.0/mux_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/github.com/gorilla/mux@v1.8.0/old_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/github.com/gorilla/mux@v1.8.0/regexp.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/github.com/gorilla/mux@v1.8.0/regexp_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/github.com/gorilla/mux@v1.8.0/route.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/mod/github.com/gorilla/mux@v1.8.0/test_helpers.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/sumdb/sum.golang.org/latest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/first/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/first/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/first/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first/data/data.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/first/data/data.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first/handlers/products.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/first/handlers/products.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/first/productmain.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,17 +63,33 @@
     </option>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="$PROJECT_DIR$" pattern="file[goworkspace]:*/" />
+  </component>
   <component name="ProjectId" id="1hHS4zPWMyySYHibpaKGdMNGN86" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -34,6 +98,12 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Go" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -54,34 +124,53 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="679" height="248" key="GridCell.Tab.0.bottom" timestamp="1599743667828">
+    <state x="863" y="394" key="#Go_Modules" timestamp="1599808398096">
       <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="863" y="394" key="#Go_Modules/0.23.1792.1031@0.23.1792.1031" timestamp="1599808398096" />
+    <state x="923" y="419" width="501" height="379" key="#Scopes" timestamp="1599802851441">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="923" y="419" width="501" height="379" key="#Scopes/0.23.1792.1031@0.23.1792.1031" timestamp="1599802851441" />
+    <state x="759" y="363" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599824099683">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="759" y="363" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1031@0.23.1792.1031" timestamp="1599824099683" />
+    <state width="679" height="248" key="GridCell.Tab.0.bottom" timestamp="1599800275593">
+      <screen x="0" y="23" width="1792" height="1033" />
     </state>
     <state width="679" height="248" key="GridCell.Tab.0.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1599743667828" />
-    <state width="679" height="277" key="GridCell.Tab.0.bottom/0.23.1792.1033@0.23.1792.1033" timestamp="1599723603980" />
-    <state width="679" height="248" key="GridCell.Tab.0.center" timestamp="1599743667828">
-      <screen x="0" y="23" width="1792" height="1031" />
+    <state width="679" height="248" key="GridCell.Tab.0.bottom/0.23.1792.1033@0.23.1792.1033" timestamp="1599800275593" />
+    <state width="679" height="248" key="GridCell.Tab.0.center" timestamp="1599800275592">
+      <screen x="0" y="23" width="1792" height="1033" />
     </state>
     <state width="679" height="248" key="GridCell.Tab.0.center/0.23.1792.1031@0.23.1792.1031" timestamp="1599743667828" />
-    <state width="679" height="277" key="GridCell.Tab.0.center/0.23.1792.1033@0.23.1792.1033" timestamp="1599723603979" />
-    <state width="679" height="248" key="GridCell.Tab.0.left" timestamp="1599743667828">
-      <screen x="0" y="23" width="1792" height="1031" />
+    <state width="679" height="248" key="GridCell.Tab.0.center/0.23.1792.1033@0.23.1792.1033" timestamp="1599800275592" />
+    <state width="679" height="248" key="GridCell.Tab.0.left" timestamp="1599800275591">
+      <screen x="0" y="23" width="1792" height="1033" />
     </state>
     <state width="679" height="248" key="GridCell.Tab.0.left/0.23.1792.1031@0.23.1792.1031" timestamp="1599743667828" />
-    <state width="679" height="277" key="GridCell.Tab.0.left/0.23.1792.1033@0.23.1792.1033" timestamp="1599723603979" />
-    <state width="679" height="248" key="GridCell.Tab.0.right" timestamp="1599743667828">
-      <screen x="0" y="23" width="1792" height="1031" />
+    <state width="679" height="248" key="GridCell.Tab.0.left/0.23.1792.1033@0.23.1792.1033" timestamp="1599800275591" />
+    <state width="679" height="248" key="GridCell.Tab.0.right" timestamp="1599800275593">
+      <screen x="0" y="23" width="1792" height="1033" />
     </state>
     <state width="679" height="248" key="GridCell.Tab.0.right/0.23.1792.1031@0.23.1792.1031" timestamp="1599743667828" />
-    <state width="679" height="277" key="GridCell.Tab.0.right/0.23.1792.1033@0.23.1792.1033" timestamp="1599723603980" />
+    <state width="679" height="248" key="GridCell.Tab.0.right/0.23.1792.1033@0.23.1792.1033" timestamp="1599800275593" />
     <state x="0" y="337" key="SettingsEditor" timestamp="1599680633948">
       <screen x="0" y="23" width="1792" height="1036" />
     </state>
     <state x="0" y="337" key="SettingsEditor/0.23.1792.1036@0.23.1792.1036" timestamp="1599680633948" />
-    <state x="885" y="190" width="604" height="735" key="find.popup" timestamp="1599680069930">
-      <screen x="0" y="23" width="1792" height="1036" />
+    <state x="885" y="189" width="604" height="732" key="find.popup" timestamp="1599802659602">
+      <screen x="0" y="23" width="1792" height="1031" />
     </state>
+    <state x="885" y="189" width="604" height="732" key="find.popup/0.23.1792.1031@0.23.1792.1031" timestamp="1599802659602" />
     <state x="885" y="190" width="604" height="735" key="find.popup/0.23.1792.1036@0.23.1792.1036" timestamp="1599680069930" />
     <state x="768" y="274" width="670" height="676" key="search.everywhere.popup" timestamp="1599714904651">
       <screen x="0" y="23" width="1792" height="1031" />
