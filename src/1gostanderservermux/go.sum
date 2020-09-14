@@ -1,0 +1,4 @@
+github.com/basurohit77/goworkspace v0.0.0-20200911144905-1b852c4bc598 h1:/YGh01nfp3DzM9a7vQU63IlWTUefkqZDDySr3dwquQM=
+github.com/basurohit77/goworkspace v0.0.0-20200911144905-1b852c4bc598/go.mod h1:1HmUjYNmt9RuCS4iFP2gUz8mosTOifvoB2L+L6WLWnc=
+github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
